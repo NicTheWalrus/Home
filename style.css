@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+@font-face {
+  font-family: "broadway";
+  src: url("broadway.zip");
+}
+
+body {
+  text-align: center;
+  background-color: #0085ff;
+  color:black;
+  font-family: "broadway";
+}
+
+h1 (
+  font-family: "broadway";
+)
